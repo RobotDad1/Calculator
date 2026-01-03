@@ -17,7 +17,8 @@ This project is part of **The Odin Project** focuses on DOM manipulation, event 
 ---
 
 ### 🔗 Live Demo
-[View Calculator](https://robotdad1.github.io/calculator/)
+[View Calculator](https://robotdad1.github.io/Calculator/)
+
 
 
 
