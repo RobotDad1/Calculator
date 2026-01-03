@@ -1,7 +1,9 @@
 # 🧮 Calculator
 
 <h3>A simple, responsive calculator. </h3>
+
 This project is part of **The Odin Project** focuses on DOM manipulation, event handling.
+
 
 ---
 
@@ -11,6 +13,13 @@ This project is part of **The Odin Project** focuses on DOM manipulation, event 
 - ⌫ Delete & Clear functionality
 - 🖥️ Custom favicon
 - 📱 Mobile-friendly layout
+  
 ---
-View :-<h4> https://RobotDad1.github.io/Calculator/  </h4>
----
+
+### 🔗 Live Demo
+[View Calculator](https://robotdad1.github.io/calculator/)
+
+
+
+
+
